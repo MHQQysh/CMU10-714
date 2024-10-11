@@ -44,7 +44,7 @@ That little improvemnt are not by chance, but by efforts.
 
 
 
-## 5A small conclusion for the course[waiting](Content by gpt )
+## 5 A small conclusion for the course[waiting](Content by gpt )
 
 Video Resources: The course videos are available on Bilibili and are suitable for beginners to learn deep learning systems. The lectures start with simple classification problems and backpropagation optimization and gradually cover more complex neural networks.
 
