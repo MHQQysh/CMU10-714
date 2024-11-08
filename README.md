@@ -26,8 +26,8 @@ That little improvemnt are not by chance, but by efforts.
 
 
 ## 3 What will I do:
-1. I will finish this in 5 days. 10.21 night to 10.25 night for example.Except the project (Becuase I know most of the theory knowledge before.)
-2. Then I can work on my linux ece391@uiuc in about 5 days.(Becuase I have been working on that about 10 days yet and environments can just use wsl which I tried a lot time weeks ago) To about 11.1
+1. I will finish this in 15 days. 11.20 night to 11.30 night for example.Except the project (Becuase I know most of the theory knowledge before.)
+2. Then I can work on my linux ece391@uiuc in about 10 days.(Becuase I have been working on that about 10 days yet and environments can just use wsl which I tried a lot time weeks ago) To about 11.10
 3. Then Parallel Computing CMU 15-418/Stanford CS149. For about 10 days(Because I didn't know it well)
 4. Communicate with seniors Ni and know much about ros, only using one weekend all in the lab.(Because long time makes effect.)
 5. After that, I could connect to the professor and to see whether can I follow him.(**The ddl must before 11.15**)
